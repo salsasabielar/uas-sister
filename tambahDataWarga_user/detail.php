@@ -119,7 +119,14 @@
                           <td></td>
                       </tr>
                       <tr>
-                          <td>TTL</td>
+                          <td>Alamat</td>
+                          <td>: <?php echo $data['alamat']?></td>
+                          <td></td>
+                          <td></td><td></td>
+                          <td></td>
+                      </tr>
+                      <tr>
+                          <td>Tanggal Lahir</td>
                           <td>: <?php echo $data['ttl']?></td>
                           <td></td>
                           <td></td><td></td>
